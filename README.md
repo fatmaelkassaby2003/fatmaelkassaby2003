@@ -1,88 +1,152 @@
-<h1 align="center">Hi 👋, I'm Fatma Maged Elkassaby</h1>
-<h3 align="center">Backend Developer | Laravel & PHP Specialist</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Fatma%20Maged%20Elkassaby&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20|%20Laravel%20%26%20PHP%20Specialist&descAlignY=55&descSize=18" />
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer+%7C+Laravel+%26+PHP;3%2B+Years+Building+Scalable+APIs;Clean+Code+%26+SOLID+Principles;Always+Learning%2C+Always+Building&font=Fira+Code&center=true&width=600&height=45&color=F75C7E&vCenter=true&size=22" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fatmaelkassaby2003&label=Profile%20Views&color=f75c7e&style=flat" />
+  <img src="https://img.shields.io/github/followers/fatmaelkassaby2003?label=Followers&style=social" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat-square" />
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:fatmadeveloper31@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Phone-01032132964-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </p>
 
----
+<br>
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🔭 Backend Developer with **3+ years of experience** building high-performance web applications using **Laravel & PHP**
-- 🌱 Experienced in designing secure, scalable **RESTful APIs**, optimizing complex database systems, and implementing robust **authentication & authorization**
-- 💼 Currently working as a **Laravel Backend Developer** at **AHDAF WEB** (Remote)
-- 🎓 B.Sc. in Computer Science, **Mansoura University** (2021 – 2025)
-- 📫 Reach me at **fatmadeveloper31@gmail.com**
+<img align="right" width="320" src="https://raw.githubusercontent.com/ByteVitorio/ByteVitorio/main/computer.gif">
 
----
+```php
+<?php
 
-### 🛠️ Tech Stack
+class Fatma extends BackendDeveloper
+{
+    protected array $stack = ['PHP', 'Laravel', 'MySQL', 'PostgreSQL'];
+    protected int $experience = 3; // years
+    protected string $currentJob = 'AHDAF WEB';
+    protected string $education = 'B.Sc. Computer Science, Mansoura University';
 
-**Languages & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white">
-</p>
+    public function focus(): array
+    {
+        return [
+            'Building secure & scalable RESTful APIs',
+            'Optimizing complex database systems',
+            'Implementing robust auth (JWT, Sanctum)',
+            'Writing clean, maintainable, SOLID code',
+        ];
+    }
+}
+```
 
-**Web & Styling**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
-</p>
+<br clear="right"/>
 
-**Databases**
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-</p>
-
-**Tools & Platforms**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
-  <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white">
-</p>
-
-**Concepts**
-- Object-Oriented Programming (OOP) · SOLID Principles · Design Patterns
-- RESTful API Development · JWT Authentication & Authorization
-- Database Design (ERD) · Query Optimization
-- Data Structures & Algorithms · Debugging & Problem Solving
-
----
-
-### 💼 Featured Projects
-
-**🔹 Sawalif App**
-High-performance social platform with real-time messaging and video/voice calls (Pusher & Agora SDK). Secure onboarding with JWT & Twilio OTP, financial system integrated with Moyasar and Apple IAP, admin dashboard built with Filament PHP.
-
-**🔹 One-Mile App**
-Interactive consulting marketplace connecting users with experts via a dynamic bidding system. Complete financial engine integrating MyFatoorah with a custom digital wallet, real-time features via WebSockets, secure JWT-based multi-role authentication.
-
-**🔹 Diva Touch App**
-Full-stack E-Commerce backend with Laravel — authentication (OTP, email verification, Sanctum), product catalog with filtering & search, cart/checkout flows, payment gateway integration, multi-language/multi-currency support, Livewire-powered admin dashboard.
-
-**🔹 Al-Jazeera Platform**
-Full-stack corporate portfolio platform with a RESTful API back-end and Filament-powered admin dashboard, managing service sectors, client portfolios, certifications, and a dynamic quote request system.
-
----
-
-### 📊 GitHub Stats
+## 🛠️ Tech Arsenal
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatmaelkassaby2003&show_icons=true&theme=default" alt="Fatma's GitHub stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatmaelkassaby2003" alt="GitHub Streak" width="48%">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,cpp,cs,html,css,bootstrap,tailwind,mysql,postgres,git,github,postman,firebase&theme=dark" />
+</p>
+
+<div align="center">
+
+| Category | Stack |
+|---|---|
+| **Languages & Frameworks** | PHP · Laravel · JavaScript · C++ · C# |
+| **Databases** | MySQL · PostgreSQL · ERD Design · Query Optimization |
+| **Tools & Platforms** | Git · GitHub · Postman · Firebase · Twilio · Agora · Pusher · Cloudinary |
+| **Concepts** | OOP · SOLID · Design Patterns · REST APIs · JWT Auth · DSA |
+
+</div>
+
+<br>
+
+## 💼 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔹 Sawalif App
+High-performance social platform with real-time messaging & video/voice calls via **Pusher** and **Agora SDK**. Secure onboarding with **JWT** + Twilio OTP, financial system integrated with **Moyasar** and Apple IAP, admin dashboard built with **Filament PHP**.
+
+`Laravel` `MySQL` `Pusher` `Agora` `Moyasar`
+
+</td>
+<td width="50%">
+
+### 🔹 One-Mile App
+Interactive consulting marketplace connecting users with experts via a dynamic bidding system. Complete financial engine integrating **MyFatoorah** with a custom digital wallet, real-time features via **WebSockets**, multi-role JWT auth.
+
+`Laravel` `WebSockets` `MyFatoorah` `Filament`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔹 Diva Touch App
+Full-stack E-Commerce backend — auth (OTP, email verification, **Sanctum**), product catalog with filtering & search, cart/checkout flows, payment gateway integration, multi-language/multi-currency support, **Livewire** admin dashboard.
+
+`Laravel` `Sanctum` `Livewire` `E-Commerce`
+
+</td>
+<td width="50%">
+
+### 🔹 Al-Jazeera Platform
+Full-stack corporate portfolio platform with a RESTful API back-end and **Filament**-powered admin dashboard managing service sectors, client portfolios, certifications, and a dynamic quote request system.
+
+`Laravel` `REST API` `Filament` `Admin Dashboard`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fatmaelkassaby2003&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatmaelkassaby2003&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmaelkassaby2003&layout=compact&theme=default" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmaelkassaby2003&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatmaelkassaby2003&theme=redical&hide_border=true" width="48%" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fatmaelkassaby2003&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+<br>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fatmaelkassaby2003/fatmaelkassaby2003/output/github-contribution-grid-snake.svg" />
+</p>
+
+> ⚙️ To activate the snake animation above, set up the **[snk GitHub Action](https://github.com/Platane/snk)** in this repo's Actions tab (steps below).
+
+<br>
+
+## 🎓 Education
+
+<div align="center">
+
+**B.Sc. in Computer Science** — Mansoura University
+`09/2021 – 07/2025` · Mansoura, Egypt
+
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
