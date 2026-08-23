@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Fatma%20Maged%20Elkassaby&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20|%20Laravel%20%26%20PHP%20Specialist&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Fatma%20Maged%20Elkassaby&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Laravel%20%26%20PHP%20Specialist&descAlignY=55&descSize=18" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer+%7C+Laravel+%26+PHP;3%2B+Years+Building+Scalable+APIs;Clean+Code+%26+SOLID+Principles;Always+Learning%2C+Always+Building&font=Fira+Code&center=true&width=600&height=45&color=F75C7E&vCenter=true&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&height=50&lines=Backend+Developer+%7C+Laravel+%26+PHP;3%2B+Years+Building+Scalable+APIs;Clean+Code+%26+SOLID+Principles;Always+Learning%2C+Always+Building" />
   </a>
 </p>
 
