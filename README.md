@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Fatma%20Maged%20Elkassaby&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Laravel%20%26%20PHP%20Specialist&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Fatma%20Maged%20Elkassaby&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/ByteVitorio/ByteVitorio/main/computer.gif">
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 ```php
 <?php
