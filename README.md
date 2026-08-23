@@ -115,11 +115,23 @@ Full-stack corporate portfolio platform with a RESTful API back-end and **Filame
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/fatmaelkassaby2003/fatmaelkassaby2003/output/github-contribution-grid-snake.svg" />
-</p>
+> 🎨 A live animated snake that "eats" your GitHub contribution graph will appear here once activated.
+> Follow the 2-minute setup below, then this section will automatically show your real-time contribution snake.
 
-> ⚙️ To activate the snake animation above, set up the **[snk GitHub Action](https://github.com/Platane/snk)** in this repo's Actions tab (steps below).
+<details>
+<summary><b>⚙️ Click to see the 3-step setup</b></summary>
+<br>
+
+1. Go to this repository's **Settings → Actions → General** and make sure Actions are enabled
+2. Create a new workflow file at `.github/workflows/snake.yml` in this repo using the official **[snk Action](https://github.com/Platane/snk#-usage)** template
+3. Run the workflow once from the **Actions** tab — it will generate the snake image automatically and keep it updated daily
+
+Once done, replace this section with:
+```md
+![Snake animation](https://raw.githubusercontent.com/fatmaelkassaby2003/fatmaelkassaby2003/output/github-contribution-grid-snake.svg)
+```
+
+</details>
 
 <br>
 
