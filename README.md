@@ -99,12 +99,12 @@ Full-stack corporate portfolio platform with a RESTful API back-end and **Filame
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fatmaelkassaby2003&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatmaelkassaby2003&theme=radical&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=fatmaelkassaby2003&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmaelkassaby2003&layout=compact&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatmaelkassaby2003&theme=redical&hide_border=true" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatmaelkassaby2003&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
@@ -115,23 +115,13 @@ Full-stack corporate portfolio platform with a RESTful API back-end and **Filame
 
 ## 🐍 Contribution Snake
 
-> 🎨 A live animated snake that "eats" your GitHub contribution graph will appear here once activated.
-> Follow the 2-minute setup below, then this section will automatically show your real-time contribution snake.
-
-<details>
-<summary><b>⚙️ Click to see the 3-step setup</b></summary>
-<br>
-
-1. Go to this repository's **Settings → Actions → General** and make sure Actions are enabled
-2. Create a new workflow file at `.github/workflows/snake.yml` in this repo using the official **[snk Action](https://github.com/Platane/snk#-usage)** template
-3. Run the workflow once from the **Actions** tab — it will generate the snake image automatically and keep it updated daily
-
-Once done, replace this section with:
-```md
-![Snake animation](https://raw.githubusercontent.com/fatmaelkassaby2003/fatmaelkassaby2003/output/github-contribution-grid-snake.svg)
-```
-
-</details>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fatmaelkassaby2003/fatmaelkassaby2003/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fatmaelkassaby2003/fatmaelkassaby2003/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/fatmaelkassaby2003/fatmaelkassaby2003/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 <br>
 
