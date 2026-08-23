@@ -22,29 +22,14 @@
 
 ## 🚀 About Me
 
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-```php
-<?php
-
-class Fatma extends BackendDeveloper
-{
-    protected array $stack = ['PHP', 'Laravel', 'MySQL', 'PostgreSQL'];
-    protected int $experience = 3; // years
-    protected string $currentJob = 'AHDAF WEB';
-    protected string $education = 'B.Sc. Computer Science, Mansoura University';
-
-    public function focus(): array
-    {
-        return [
-            'Building secure & scalable RESTful APIs',
-            'Optimizing complex database systems',
-            'Implementing robust auth (JWT, Sanctum)',
-            'Writing clean, maintainable, SOLID code',
-        ];
-    }
-}
-```
+- 💻 **Backend Developer** with **3+ years of experience** building high-performance web applications using **Laravel & PHP**
+- 🏢 Currently working as a **Laravel Backend Developer** at **AHDAF WEB** (Remote)
+- 🔐 Skilled in designing secure, scalable **RESTful APIs**, optimizing complex database systems, and implementing robust **authentication & authorization** (JWT, Sanctum)
+- 🧩 Passionate about writing **clean, maintainable code** following **OOP** and **SOLID principles**
+- 🎓 **B.Sc. in Computer Science**, Mansoura University (2021 – 2025)
+- 📫 Let's connect — **fatmadeveloper31@gmail.com**
 
 <br clear="right"/>
 
