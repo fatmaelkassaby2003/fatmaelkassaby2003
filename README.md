@@ -98,17 +98,8 @@ Full-stack corporate portfolio platform with a RESTful API back-end and **Filame
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatmaelkassaby2003&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=fatmaelkassaby2003&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmaelkassaby2003&layout=compact&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatmaelkassaby2003&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fatmaelkassaby2003&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 <br>
