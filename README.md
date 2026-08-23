@@ -56,38 +56,55 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔹 Sawalif App
+**💬 Sawalif App**
+
 High-performance social platform with real-time messaging & video/voice calls via **Pusher** and **Agora SDK**. Secure onboarding with **JWT** + Twilio OTP, financial system integrated with **Moyasar** and Apple IAP, admin dashboard built with **Filament PHP**.
 
-`Laravel` `MySQL` `Pusher` `Agora` `Moyasar`
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Pusher](https://img.shields.io/badge/-Pusher-300D4F?style=flat-square&logo=pusher&logoColor=white)
+![Agora](https://img.shields.io/badge/-Agora-099DFD?style=flat-square)
+![Moyasar](https://img.shields.io/badge/-Moyasar-1DBF73?style=flat-square)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔹 One-Mile App
+**🤝 One-Mile App**
+
 Interactive consulting marketplace connecting users with experts via a dynamic bidding system. Complete financial engine integrating **MyFatoorah** with a custom digital wallet, real-time features via **WebSockets**, multi-role JWT auth.
 
-`Laravel` `WebSockets` `MyFatoorah` `Filament`
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![WebSockets](https://img.shields.io/badge/-WebSockets-black?style=flat-square&logo=socketdotio&logoColor=white)
+![MyFatoorah](https://img.shields.io/badge/-MyFatoorah-6C63FF?style=flat-square)
+![Filament](https://img.shields.io/badge/-Filament-FDAE4B?style=flat-square)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔹 Diva Touch App
+**🛍️ Diva Touch App**
+
 Full-stack E-Commerce backend — auth (OTP, email verification, **Sanctum**), product catalog with filtering & search, cart/checkout flows, payment gateway integration, multi-language/multi-currency support, **Livewire** admin dashboard.
 
-`Laravel` `Sanctum` `Livewire` `E-Commerce`
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Sanctum](https://img.shields.io/badge/-Sanctum-EF3B2D?style=flat-square)
+![Livewire](https://img.shields.io/badge/-Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white)
+![E--Commerce](https://img.shields.io/badge/-E--Commerce-00A86B?style=flat-square)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔹 Al-Jazeera Platform
+**🏢 Al-Jazeera Platform**
+
 Full-stack corporate portfolio platform with a RESTful API back-end and **Filament**-powered admin dashboard managing service sectors, client portfolios, certifications, and a dynamic quote request system.
 
-`Laravel` `REST API` `Filament` `Admin Dashboard`
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-025?style=flat-square)
+![Filament](https://img.shields.io/badge/-Filament-FDAE4B?style=flat-square)
+![Admin Dashboard](https://img.shields.io/badge/-Admin%20Dashboard-6f42c1?style=flat-square)
 
 </td>
 </tr>
