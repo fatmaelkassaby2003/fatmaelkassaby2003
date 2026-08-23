@@ -98,8 +98,7 @@ Full-stack corporate portfolio platform with a RESTful API back-end and **Filame
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=fatmaelkassaby2003&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatmaelkassaby2003&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatmaelkassaby2003&theme=radical&hide_border=true" width="70%" />
 </p>
 
 <br>
